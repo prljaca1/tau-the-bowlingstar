@@ -6,6 +6,9 @@ public class BowlingGameTest {
 
     @Test
     public void jessicaTestOne() {
+       int a = 77;
+       int b=7;
+       int c= a+b;
 
     }
 }
